@@ -1,0 +1,15 @@
+A bag contains 10 Red Candy and 10 Blue Candy. 
+Pick two Candies randomly from the bag.
+
+If two blue Candies are drawn then put them both back to bag
+
+If two Red Candies are drawn then keep them out from bag
+
+if one Red Candy and one Blue Candy then put Red Candy back to bag 
+and keep the Blue candy out from bag
+
+Create a simulation and run the simulation 100 times, based on this run.
+
+Estimate likelihood percentage of the last candy in the bag
+Estimate likelihood percentage of the last candy being blue in the bag
+Estimate likelihood percentage of the last candy being Red in the bag
